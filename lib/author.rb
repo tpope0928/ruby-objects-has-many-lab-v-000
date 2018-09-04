@@ -9,7 +9,7 @@ class Author
     @@all << self
   end
 
-
+  
 
 
 end
