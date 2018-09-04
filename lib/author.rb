@@ -13,7 +13,9 @@ class Author
     @@all
   end
   
-  
+  def add_posts
+    
+  end
 
 
 end
